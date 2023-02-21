@@ -1,0 +1,11 @@
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\2_.csproj.AssemblyReference.cache
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\2_.csproj.SuggestedBindingRedirects.cache
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\_2_.Form1.resources
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\_2_.Properties.Resources.resources
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\2_.csproj.GenerateResource.cache
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\2_.csproj.CoreCompileInputs.cache
+C:\Users\daun-\Desktop\1\2_\2_\2_\bin\Debug\2_.exe.config
+C:\Users\daun-\Desktop\1\2_\2_\2_\bin\Debug\2_.exe
+C:\Users\daun-\Desktop\1\2_\2_\2_\bin\Debug\2_.pdb
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\2_.exe
+C:\Users\daun-\Desktop\1\2_\2_\2_\obj\Debug\2_.pdb
